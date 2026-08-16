@@ -81,7 +81,7 @@ timezone  = DEFAULT_TIME_ZONE
 # API
 API_URL   = "carelink/nohistory"
 proxyaddr = "0.0.0.0" # Replace with your Carelink Python Client IP address
-proxyaddr = "192.168.1.100"
+proxyaddr = "pi.hole"
 proxyport = 8081
 
 # Gobal variables
