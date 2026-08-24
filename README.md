@@ -9,6 +9,15 @@ Fits in nicely on your bedside table or on a shelf in the living room and lets y
 
 
 
+## M5Stack Fire
+
+This fork runs on the [M5Stack Fire](https://shop.m5stack.com/products/m5stack-fire-iot-development-kit) under UIFlow2, rather than the Core2/UIFlow1 combo the screenshot above was taken on.
+
+![M5Stack Fire front](img/M5Stack-Fire-1.jpg)
+![M5Stack Fire side](img/M5Stack-Fire-2.jpg)
+
+
+
 ## System architecture
 
 This project leverages the Cloud infrastructure provided by Medtronic. The picture below summarizes the architecture of the data communication path.
